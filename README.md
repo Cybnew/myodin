@@ -1,1 +1,2 @@
  # myodin
+This is my initial project in the Odin Project
